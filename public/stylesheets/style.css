@@ -1,8 +1,15 @@
 body {
-  padding: 50px;
+  /* padding: 50px; */
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
 }
 
 a {
   color: #00B7FF;
+}
+
+.message {
+  padding: 6px;
+  border: 1px solid black;
+  margin-bottom: 6px;
+  width: 50%;
 }
